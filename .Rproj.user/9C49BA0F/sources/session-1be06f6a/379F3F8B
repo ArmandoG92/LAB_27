@@ -1,11 +1,11 @@
 {
     "id": "379F3F8B",
-    "path": null,
-    "project_path": null,
+    "path": "~/GitHub/LAB_27/lab_27.R",
+    "project_path": "lab_27.R",
     "type": "r_source",
     "hash": "0",
     "contents": "",
-    "dirty": true,
+    "dirty": false,
     "created": 1759798022966.0,
     "source_on_save": false,
     "relative_order": 1,
@@ -13,15 +13,15 @@
         "tempName": "Untitled1",
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "166,0",
-        "scrollLine": "140"
+        "cursorPosition": "0,0",
+        "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 7454057966332046965,
-    "encoding": "",
+    "lastKnownWriteTime": 1759799424,
+    "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1759799128414,
+    "last_content_update": 1759799449152,
     "read_only": false,
     "read_only_alternatives": []
 }
